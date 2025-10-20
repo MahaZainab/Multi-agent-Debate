@@ -1,2 +1,2 @@
 # Multi-agent-Debate
-While implementing remember as we will add more
+While implementing remember as we will add more agents
