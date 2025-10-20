@@ -5,3 +5,6 @@ Additional point: We can do chain of thought before doing reasoning for better d
 
 Here is the diagram for multiagent debate
 ![alt text](image.png)
+
+Also answer:
+How we will  calculate the confidence of the model.
