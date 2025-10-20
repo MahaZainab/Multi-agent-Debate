@@ -3,4 +3,4 @@ While implementing remember as we will add more agents the context window will b
 
 Additional point: We can do chain of thought before doing reasoning for better debate.
 
-Here is the detail of the 
+Here is the diagram for multiagent debate
