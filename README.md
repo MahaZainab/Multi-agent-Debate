@@ -7,5 +7,6 @@ Here is the diagram for multiagent debate
 ![alt text](image.png)
 
 Also answer:
-How we will  calculate the confidence of the model.
-how to calculate interence time compute
+
+1. How we will  calculate the confidence of the model.
+2. how to calculate interence time compute?
