@@ -1,2 +1,2 @@
 # Multi-agent-Debate
-While implementing remember as we will add more agents the context window will be increased and model performance will
+While implementing remember as we will add more agents the context window will be increased and model performance will be suffered
