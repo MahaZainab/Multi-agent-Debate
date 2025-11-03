@@ -3,7 +3,7 @@ While implementing remember as we will add more agents the context window will b
 
 Additional point: We can do chain of thought before doing reasoning for better debate.
 
-Remember: we will generalized our model to other Programming 
+Remember: we will generalized our model to other Programming laguage as well.
 Here is the diagram for multiagent debate
 ![alt text](image.png)
 
