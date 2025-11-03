@@ -3,6 +3,7 @@ While implementing remember as we will add more agents the context window will b
 
 Additional point: We can do chain of thought before doing reasoning for better debate.
 
+Remember: we will enhance
 Here is the diagram for multiagent debate
 ![alt text](image.png)
 
@@ -10,4 +11,3 @@ Also answer:
 
 1. How we will  calculate the confidence of the model.
 2. how to calculate interence time compute/computation cost?
-3. 
