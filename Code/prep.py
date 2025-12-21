@@ -175,7 +175,7 @@ def debate_preparation(ex: CodeExample, agents: List[ExecutionAgent]) -> List[Pr
 # =============================
 
 def main():
-    data = load_test_jsonl("/mnt/data/test.jsonl")
+    data = load_test_jsonl("test.jsonl")
     ex = data[0]
 
     agents = [
