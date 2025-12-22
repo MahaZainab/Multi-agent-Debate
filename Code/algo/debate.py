@@ -685,7 +685,7 @@ def main():
     mmad = MMADFramework(
         agent_configs=AGENT_CONFIGS,
         decider_model="qwen2.5:1.5b",
-        max_rounds=3
+        max_rounds=5
     )
     
     # Run MMAD on all examples
