@@ -663,7 +663,7 @@ def main():
     # Use small models that work well with Ollama
     # Make sure these are pulled: ollama pull <model>
     AGENT_CONFIGS = [
-        {"name": "Qwen", "model": "qwen2.5:1b"},
+        {"name": "Qwen", "model": "qwen2.5:1.5b"},
         {"name": "Phi", "model": "phi3:latest"},
         {"name": "Gemma", "model": "gemma2:2b"}
     ]
