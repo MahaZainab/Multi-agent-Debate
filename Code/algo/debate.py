@@ -658,7 +658,7 @@ def save_results_jsonl(path: str, results: List[MMADResult]):
 
 def main():
     DATA_PATH = "test.jsonl"
-    N_EXAMPLES = 50  # Start with 50 examples
+    N_EXAMPLES = 10  # Start with 50 examples
     
     # Use small models that work well with Ollama
     # Make sure these are pulled: ollama pull <model>
